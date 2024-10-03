@@ -6,3 +6,6 @@ dist/
 
 # Ignore environment variables file
 .env
+
+# Ignore TypeScript build info file
+tsconfig.buildinfo
