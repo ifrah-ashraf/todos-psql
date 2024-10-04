@@ -8,4 +8,4 @@ dist/
 .env
 
 # Ignore TypeScript build info file
-tsconfig.buildinfo
+tsconfig.tsbuildinfo
